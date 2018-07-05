@@ -27,6 +27,6 @@
     "expo": "^23.0.4",
     "glamorous-native": "^1.2.0",
     "react": "16.0.0",
-    "react-native": "0.50.3"
+    "react-native": "0.56.0"
   }
 }
